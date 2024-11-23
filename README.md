@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## usage 
 ```bash
-streamlit label_ui.py
+streamlit run label_ui.py
 ```
 
 **remember to save after fininshed labeling**
