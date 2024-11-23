@@ -15,7 +15,7 @@ pip install -r requirements.txt
 streamlit run label_ui.py
 ```
 
-**remember to save after fininshed labeling**
+**remember to save after fininshed labeling** 左下的儲存
 
 ## 分工
 廚具->毛筆           李酩濠\
